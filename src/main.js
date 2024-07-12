@@ -10,12 +10,12 @@ import hljsVuePlugin from '@highlightjs/vue-plugin'
 import {
   english,
   german,
-  portugese,
-  spanish,
-  russian,
-  chinese,
-  french,
-  ach,
+  // portugese,
+  // spanish,
+  // russian,
+  // chinese,
+  // french,
+  // ach,
   builtin,
   libraries,
   tools,
@@ -36,19 +36,19 @@ const resourcesList = {
   sponsors: sponsors()
 }
 
-// const lang = window.localStorage.getItem('lang')
+const lang = window.localStorage.getItem('lang') || 'en-US'
 
 const i18n = createI18n({
-  locale: 'en-US',
+  locale: lang,
   messages: {
     'en-US': { ...english(), resourcesList },
-    'de-DE': { ...german(), resourcesList },
-    'pt-PT': { ...portugese(), resourcesList },
-    'es-ES': { ...spanish(), resourcesList },
-    'ru-RU': { ...russian(), resourcesList },
-    'zh-CN': { ...chinese(), resourcesList },
-    'fr-FR': { ...french(), resourcesList },
-    'ach-UG': { ...ach(), resourcesList }
+    'de-DE': { ...german(), resourcesList }
+    // 'pt-PT': { ...portugese(), resourcesList },
+    // 'es-ES': { ...spanish(), resourcesList },
+    // 'ru-RU': { ...russian(), resourcesList },
+    // 'zh-CN': { ...chinese(), resourcesList },
+    // 'fr-FR': { ...french(), resourcesList },
+    // 'ach-UG': { ...ach(), resourcesList }
   },
   warnHtmlInMessage: 'off'
 })

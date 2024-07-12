@@ -1,5 +1,5 @@
 import english from './english/main.js'
-import german from './german.js'
+import german from './german/main.js'
 import portugese from './portugese.js'
 import french from './french.js'
 import russian from './russian.js'
