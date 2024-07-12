@@ -5,6 +5,9 @@ module.exports = {
   outputDir: 'docs',
   productionSourceMap: false,
   devServer: {
+    client: {
+      webSocketURL: 'auto://0.0.0.0:0/ws'
+    },
     allowedHosts: 'all'
   },
   configureWebpack: {
