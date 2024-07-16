@@ -62,7 +62,7 @@ export default () => ({
     title: 'Introduction',
     body: `
       <p>
-        Änderung: Robot Framework is an open source automation framework for test automation and <a href="https://docs.robotframework.org/docs/getting_started/rpa">robotic process automation (RPA)</a>.
+        Robot Framework is an open source automation framework for test automation and <a href="https://docs.robotframework.org/docs/getting_started/rpa">robotic process automation (RPA)</a>.
         It is supported by the <a href="/foundation/">Robot Framework Foundation</a> and <a href="/users">widely used</a> in the industry.
         </p>
         <p>
