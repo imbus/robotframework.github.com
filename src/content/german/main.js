@@ -11,11 +11,11 @@ export default () => ({
   navbar: {
     items: [
       {
-        name: 'Get started',
+        name: 'Jetzt beginnen',
         id: 'getting-started'
       },
       {
-        name: 'Resources',
+        name: 'Ressourcen',
         id: 'resources'
       },
       {
@@ -23,20 +23,20 @@ export default () => ({
         id: 'community'
       },
       {
-        name: 'Development',
+        name: 'Entwicklung',
         id: 'development'
       }
     ],
     dropdownDocs: {
-      name: 'Docs',
+      name: 'Doku',
       items: [
         {
-          name: 'Guides',
+          name: 'Anleitungen',
           url: 'https://docs.robotframework.org/docs',
           description: 'Start here'
         },
         {
-          name: 'User Guide',
+          name: 'Benutzeranleitungen',
           url: 'https://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html',
           description: 'Original handbook'
         },
@@ -46,7 +46,7 @@ export default () => ({
           description: 'Built-in keywords'
         },
         {
-          name: 'Libraries',
+          name: 'Bibliothek',
           url: 'https://robotframework.org/robotframework/#standard-libraries',
           description: 'Standard libraries'
         },
@@ -62,16 +62,16 @@ export default () => ({
     title: 'Introduction',
     body: `
       <p>
-        Änderung 1: Robot Framework is an open source automation framework for test automation and <a href="https://docs.robotframework.org/docs/getting_started/rpa">robotic process automation (RPA)</a>.
-        It is supported by the <a href="/foundation/">Robot Framework Foundation</a> and <a href="/users">widely used</a> in the industry.
+        Robot Framework ist ein Open-Source Automatisierungsframework für die Testautomatisierung und <a href="https://docs.robotframework.org/docs/getting_started/rpa">die robotergestützte Prozessautomatisierung (RPA)</a>.
+        Es erhält Unterstützung von der <a href="/foundation/">Robot Framework Foundation</a> und in der Industrie <a href="/users">weitverbreitet</a>.
         </p>
         <p>
-          Its <a href="https://docs.robotframework.org/docs/style_guide">human-friendly and versalite syntax</a> uses keywords and supports <a href="https://docs.robotframework.org/docs/extending_robot_framework/custom-libraries/python_library">extending through libraries</a> in
-          Python, Java, and other languages.
+        Die <a href="https://docs.robotframework.org/docs/style_guide">benutzerfreundliche und universelle Syntax</a> nutzt Keywords und unterstützt <a href="https://docs.robotframework.org/docs/extending_robot_framework/custom-libraries/python_library">Erweiterungen durch Bibliotheken</a> in
+        Python, Java und anderen Programmiersprachen.
         </p>
         <p class="mb-none">
-        It integrates with other tools for comprehensive automation without licensing fees,
-        bolstered by a rich community with hundreds of <a href="#resources">3rd party libraries</a>.
+        Es integriert sich mit anderen Tools für umfassende Automatisierung ohne Lizenzgebühren,
+        wird durch eine starke Community mit hunderten von <a href="#resources">Drittanbieter-Bibliotheken</a> unterstützt.
       </p>
     `,
     usedByTitle: 'Robot Framework is used by...',
