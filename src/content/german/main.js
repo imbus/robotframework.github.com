@@ -33,27 +33,27 @@ export default () => ({
         {
           name: 'Anleitungen',
           url: 'https://docs.robotframework.org/docs',
-          description: 'Start here'
+          description: 'Hier starten'
         },
         {
           name: 'Benutzeranleitungen',
           url: 'https://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html',
-          description: 'Original handbook'
+          description: 'Originalhandbuch'
         },
         {
           name: 'Keywords',
           url: 'https://robotframework.org/robotframework/latest/libraries/BuiltIn.html',
-          description: 'Built-in keywords'
+          description: 'Built-in Keywords'
         },
         {
           name: 'Bibliothek',
           url: 'https://robotframework.org/robotframework/#standard-libraries',
-          description: 'Standard libraries'
+          description: 'Standardbibliotheken'
         },
         {
           name: 'Public API',
           url: 'https://robot-framework.readthedocs.io/en/stable/',
-          description: 'Write extensions'
+          description: 'Erweiterungen schreiben'
         }
       ]
     }
