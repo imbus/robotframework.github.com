@@ -127,7 +127,7 @@ export default () => ({
   gettingStarted: {
     title: 'Jetzt beginnen',
     body:
-      `<cite>Code is worth a thousand words. / Code sagt mehr als tausend Worte</cite>
+      `<cite>Code is worth a thousand words. / Code sagt mehr als tausend Worte.</cite>
       <p>Unten findest du einen Live-Editor für Robot Framework. 
       Du kannst gerne damit experimentieren! Falls du Fehler findest, melde sie bitte unter
       <a href="https://github.com/robotframework/robotframework.github.com/issues" target="_blank">Github Probleme.</a></p>
@@ -137,9 +137,9 @@ export default () => ({
         name: 'Editor'
       },
       {
-        name: 'Install',
+        name: 'Installieren',
         description: `
-          <p>Robot Framework is implemented with Python, so you need to have
+          <p>"Robot Framework ist in Python implementiert, so you need to have
           <a href="https://www.python.org/downloads/" target="_blank">Python installed.</a>
           <br>On Windows machines, make sure to add
           <a href="https://docs.python.org/3/using/windows.html#the-full-installer" target="_blank">Python to PATH</a>
@@ -155,7 +155,7 @@ export default () => ({
           `
       },
       {
-        name: 'Learn'
+        name: 'Lernen'
       }
     ]
   },
