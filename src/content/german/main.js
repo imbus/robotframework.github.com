@@ -125,13 +125,13 @@ export default () => ({
     ]
   },
   gettingStarted: {
-    title: 'Get Started',
+    title: 'Jetzt beginnen',
     body:
-      `<cite>Code is worth a thousand words.</cite>
-      <p>Below you'll find a live Robot Framework editor.
-      Feel free to experiment with it! If you find bugs,
-      please report them in <a href="https://github.com/robotframework/robotframework.github.com/issues" target="_blank">Github issues.</a></p>
-      <p>To start using Robot Framework in a project of your own, please check tabs "Install" and "Learn". Also be sure to visit the new <a href="https://docs.robotframework.org/">Robot Framework Docs</a>!</p>`,
+      `<cite>Code is worth a thousand words. / Code sagt mehr als tausend Worte</cite>
+      <p>Unten findest du einen Live-Editor für Robot Framework. 
+      Du kannst gerne damit experimentieren! Falls du Fehler findest, melde sie bitte unter
+      <a href="https://github.com/robotframework/robotframework.github.com/issues" target="_blank">Github Probleme.</a></p>
+      <p>Um mit der Nutzung von Robot Framework in deinem eigenen Projekt zu beginnen, schau bitte unter den Tabs 'Installieren' und 'Lernen' nach. Schau dir auch unbedingt die neuen <a href="https://docs.robotframework.org/">Robot Framework Doku</a>  an!</p>`,
     tabs: [
       {
         name: 'Editor'
