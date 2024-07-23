@@ -139,7 +139,7 @@ export default () => ({
       {
         name: 'Installieren',
         description: `
-          <p>"Robot Framework ist in Python implementiert, daher müssen Sie Python installiert
+          <p>Robot Framework ist in Python implementiert, daher müssen Sie
           <a href="https://www.python.org/downloads/" target="_blank">Python installiert</a> haben.
           <br>Auf Windows-Rechnern stellen Sie sicher, dass Sie während der Installation
           <a href="https://docs.python.org/3/using/windows.html#the-full-installer" target="_blank">Python zum PATH</a>
@@ -175,7 +175,7 @@ export default () => ({
     links: {
       forum: {
         title: 'Forum',
-        description: '"Offizielles Robot Framework Forum.'
+        description: 'Offizielles Robot Framework Forum.'
       },
       slack: {
         title: 'Slack',
