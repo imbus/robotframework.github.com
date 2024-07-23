@@ -162,15 +162,15 @@ export default () => ({
   community: {
     title: 'Community',
     body:
-      `<p>Robot Framework has a vibrant community of testing enthusiasts around it. Feel free to
-      stop by if you have any questions, need advice or would just like to connect with like-minded people!</p>
-      <p>There is also an annual RoboCon conference that is hosted in Helsinki, Finland.
-      For more information and to watch previous years' talks, visit
-      <a href="https://robocon.io" target="_blank">robocon.io</a> or our
-      <a href="https://www.youtube.com/channel/UCuOaCtN8bI9O_E2VYIumIqg" target="_blank">YouTube Channel</a>.</p>
-      <p>To support Robot Framework you can find a <a href="https://supergeek.de/de/products/24916-im-the-robot-dark/" target="_blank">&#128085; T-shirt</a>
-      and a <a href="https://supergeek.de/de/products/24915-im-the-robot-bright/1232-tasse-coffee-mug/" target="_blank">&#9749; coffee cup</a>
-      from our <a href="https://shop.robotframework.org/" target="_blank">Shop<a>.</p>
+      `<p>Robot Framework hat eine lebendige Gemeinschaft von Testbegeisterten. Zögern Sie nicht, vorbeizuschauen, wenn Sie Fragen haben,
+      Ratschläge benötigen oder einfach nur mit Gleichgesinnten in Kontakt treten möchten!</p>
+      <p>Es gibt auch eine jährliche RoboCon-Konferenz, die in Helsinki, Finnland, stattfindet. 
+      Für weitere Informationen und um Vorträge der letzten Jahre anzusehen, besuchen Sie
+      <a href="https://robocon.io" target="_blank">robocon.io</a> oder unseren
+      <a href="https://www.youtube.com/channel/UCuOaCtN8bI9O_E2VYIumIqg" target="_blank">YouTube-Kanal</a>.</p>
+      <p>Um Robot Framework zu unterstützen, finden Sie ein <a href="https://supergeek.de/de/products/24916-im-the-robot-dark/" target="_blank">&#128085; T-Shirt</a>
+      und eine <a href="https://supergeek.de/de/products/24915-im-the-robot-bright/1232-tasse-coffee-mug/" target="_blank">&#9749; Kaffeetasse</a>
+      unserem <a href="https://shop.robotframework.org/" target="_blank">Shop<a>.</p>
 `,
     links: {
       forum: {
