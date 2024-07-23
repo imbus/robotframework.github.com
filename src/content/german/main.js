@@ -229,7 +229,7 @@ export default () => ({
     <p>Dank der Sponsoren bleibt Robot Framework völlig kostenlos nutzbar und wird gleichzeitig aktiv gewartet und weiterentwickelt. 
     Die Foundation deckt auch andere damit verbundene Ausgaben ab, wie die Entwicklung dieser Website und die Organisation verschiedener Meetups.`,
     sponsorBoxTitle: 'Mitglieder der Robot Framework Foundation',
-    howToJoin: '<a href="/foundation/">Join</a>'
+    howToJoin: '<a href="/foundation/">Beitreten</a>'
   },
   usersPage: {
     title: 'Benutzer von Robot Framework',
