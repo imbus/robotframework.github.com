@@ -139,19 +139,19 @@ export default () => ({
       {
         name: 'Installieren',
         description: `
-          <p>"Robot Framework ist in Python implementiert, so you need to have
-          <a href="https://www.python.org/downloads/" target="_blank">Python installed.</a>
-          <br>On Windows machines, make sure to add
-          <a href="https://docs.python.org/3/using/windows.html#the-full-installer" target="_blank">Python to PATH</a>
-          during installation.</p>
-          <p>Installing Robot Framework with pip is simple:
+          <p>"Robot Framework ist in Python implementiert, daher müssen Sie Python installiert
+          <a href="https://www.python.org/downloads/" target="_blank">Python installiert</a> haben.
+          <br>Auf Windows-Rechnern stellen Sie sicher, dass Sie während der Installation
+          <a href="https://docs.python.org/3/using/windows.html#the-full-installer" target="_blank">Python zum PATH</a>
+          hinzufügen.</p>
+          <p>Die Installation von Robot Framework mit pip ist unkompliziert:
           <pre class="line">pip install robotframework</pre></p>
-          <p>To check that the installation was successful, run
+          <p>Um zu überprüfen, ob die Installation erfolgreich war, führen Sie den folgenden Befehl aus:
           <pre class="line">robot --version</pre></p>
-          <p>For a full guide, please see
-          <a href="https://github.com/robotframework/robotframework/blob/master/INSTALL.rst" target="_blank">Installation instructions</a>.
-          It also covers topics such as running Robot Framework on Jython (JVM) and IronPython (.NET).</p>
-          <p>Now you are ready to write your first tests!</p>
+          <p>Für eine vollständige Anleitung siehe
+          <a href="https://github.com/robotframework/robotframework/blob/master/INSTALL.rst" target="_blank">Installationsanweisungen</a>.
+          Es behandelt auch Themen wie das Ausführen von Robot Framework auf Jython (JVM) und IronPython (.NET).</p>
+          <p>Jetzt sind Sie bereit, Ihre ersten Tests zu schreiben!</p>
           `
       },
       {
