@@ -221,23 +221,21 @@ export default () => ({
     ]
   },
   development: {
-    title: 'Development',
-    body: `<p>Development of Robot Framework is funded by the non-profit
-    <a href="/foundation/">Robot Framework Foundation</a>. It consists
-    of companies and organizations that want to ensure the continuity of Robot Framework now and
-    in the future.</p>
-    <p>Project is hosted at <a href="https://github.com/robotframework/robotframework" target="_blank">GitHub</a></p>
-    <p>Thanks to the sponsors, Robot Framework remains completely
-    free to use while being actively maintained and developed. Foundation also covers other
-    related expenses such as the development of this website and organizing various meetups.`,
-    sponsorBoxTitle: 'Members of Robot Framework Foundation',
+    title: 'Entwicklung',
+    body: `<p>Die Entwicklung von Robot Framework wird von der gemeinnützigen Organisation
+    <a href="/foundation/">Robot Framework Foundation</a> gefördert. Es besteht aus Unternehmen und Organisationen,
+    die die Kontinuität von Robot Framework jetzt und in Zukunft sicherstellen möchten.</p>
+    <p>Das Projekt ist gehostet bei <a href="https://github.com/robotframework/robotframework" target="_blank">GitHub</a></p>
+    <p>Dank der Sponsoren bleibt Robot Framework völlig kostenlos nutzbar und wird gleichzeitig aktiv gewartet und weiterentwickelt. 
+    Die Foundation deckt auch andere damit verbundene Ausgaben ab, wie die Entwicklung dieser Website und die Organisation verschiedener Meetups.`,
+    sponsorBoxTitle: 'Mitglieder der Robot Framework Foundation',
     howToJoin: '<a href="/foundation/">Join</a>'
   },
   usersPage: {
-    title: 'Users of Robot Framework',
-    body: `If you'd like your company added here, please submit a
-      <a href="https://github.com/robotframework/robotframework.github.com/pulls">pull request</a> or an
-      <a href="https://github.com/robotframework/robotframework.github.com/issues">issue</a>.`
+    title: 'Benutzer von Robot Framework',
+    body: `Wenn Sie Ihr Unternehmen hier hinzufügen möchten, reichen Sie bitte eine
+      <a href="https://github.com/robotframework/robotframework.github.com/pulls">Pull Request</a> oder ein
+      <a href="https://github.com/robotframework/robotframework.github.com/issues">Issue</a> ein.`
     // list of users is found in ./resources/users.js
   }
 })
