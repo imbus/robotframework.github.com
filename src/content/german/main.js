@@ -196,24 +196,23 @@ export default () => ({
       die nicht mehr gewartet werden und daher nicht mehr aufgeführt werden sollten.`,
     tabs: [
       {
-        name: 'Libraries',
+        name: 'Bibliotheken',
         key: 'libraries',
-        description: `Separately developed external libraries that
-        can be installed based on your needs. Creating your own libraries is a breeze. For instructions, see
+        description: `Extern entwickelte Bibliotheken können je nach Bedarf installiert werden. Das Erstellen eigener Bibliotheken ist kinderleicht. Für Anweisungen siehe
         <a href="https://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html#creating-test-libraries" target="_blank">
-        creating test libraries</a> in Robot Framework User Guide.`
+        Testbibliotheken erstellen</a> im Robot Framework Benutzeranleitungen.`
       },
       {
         name: 'Built-in',
         key: 'builtin',
-        description: `Libraries and tools that are bundled with the framework. Libraries provide
-        the actual automation and testing capabilities to Robot Framework by providing keywords.`
+        description: `Bibliotheken und Werkzeuge, die mit dem Framework gebündelt sind. Bibliotheken bieten die eigentlichen
+        Automatisierungs- und Testfunktionen für Robot Framework, indem sie Keywords bereitstellen.`
       },
       {
         name: 'Tools',
         key: 'tools',
-        description: `Supporting tools ease automation: editing, running, building and so on.
-        Most of these tools are developed as separate projects, but some are built into the framework itself.`
+        description: `Unterstützende Tools erleichtern die Automatisierung: Bearbeitung, Ausführung, Erstellung und so weiter.
+        Die meisten dieser Tools werden als separate Projekte entwickelt, aber einige sind direkt in das Framework integriert.`
       }
     ],
     mobileTitles: [
