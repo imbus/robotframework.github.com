@@ -74,7 +74,7 @@ export default () => ({
         wird durch eine starke Community mit hunderten von <a href="#resources">Drittanbieter-Bibliotheken</a> unterstützt.
       </p>
     `,
-    usedByTitle: 'Robot Framework is used by...',
+    usedByTitle: 'Robot Framework wird verwendet von ...',
     companies: [
       {
         name: 'ABB',
@@ -128,10 +128,10 @@ export default () => ({
     title: 'Jetzt beginnen',
     body:
       `<cite>Code is worth a thousand words. / Code sagt mehr als tausend Worte.</cite>
-      <p>Unten findest du einen Live-Editor für Robot Framework. 
-      Du kannst gerne damit experimentieren! Falls du Fehler findest, melde sie bitte unter
+      <p>Unten finden Sie einen Live-Editor für Robot Framework. 
+      Sie können gerne damit experimentieren! Falls Sie Fehler finden, melden Sie diese bitte unter
       <a href="https://github.com/robotframework/robotframework.github.com/issues" target="_blank">Github Probleme.</a></p>
-      <p>Um mit der Nutzung von Robot Framework in deinem eigenen Projekt zu beginnen, schau bitte unter den Tabs 'Installieren' und 'Lernen' nach. Schau dir auch unbedingt die neuen <a href="https://docs.robotframework.org/">Robot Framework Doku</a>  an!</p>`,
+      <p>Um mit der Nutzung von Robot Framework in Ihrem eigenen Projekt zu beginnen, schauen Sie bitte unter den Tabs 'Installieren' und 'Lernen' nach. Schauen Sie sich auch unbedingt die neuen <a href="https://docs.robotframework.org/">Robot Framework Doku</a> an!</p>`,
     tabs: [
       {
         name: 'Editor'
