@@ -162,7 +162,7 @@ export default () => ({
   community: {
     title: 'Community',
     body:
-      `<p>Robot Framework hat eine lebendige Gemeinschaft von Testbegeisterten. Zögern Sie nicht, vorbeizuschauen, wenn Sie Fragen haben,
+      `<p>Robot Framework hat eine lebendige Community von Testbegeisterten. Zögern Sie nicht, vorbeizuschauen, wenn Sie Fragen haben,
       Ratschläge benötigen oder einfach nur mit Gleichgesinnten in Kontakt treten möchten!</p>
       <p>Es gibt auch eine jährliche RoboCon-Konferenz, die in Helsinki, Finnland, stattfindet. 
       Für weitere Informationen und um Vorträge der letzten Jahre anzusehen, besuchen Sie
@@ -175,25 +175,25 @@ export default () => ({
     links: {
       forum: {
         title: 'Forum',
-        description: 'Official Robot Framework forum.'
+        description: '"Offizielles Robot Framework Forum.'
       },
       slack: {
         title: 'Slack',
-        description: 'Community team chat.<br><a href="https://rf-invite.herokuapp.com/" target="_blank">Click for invite!</a>'
+        description: 'Community Team Chat.<br><a href="https://rf-invite.herokuapp.com/" target="_blank">Klicken Sie hier für die Einladung!</a>'
       }
     }
   },
   resources: {
-    title: 'Resources',
+    title: 'Ressourcen',
     body:
-      `<p>Robot Framework is open source and supported by <a href="/foundation/">Robot Framework Foundation</a>.
-      There is a huge community of contributors around the tool.
-      The software is built with expandability in mind and there are numerous ways to extend
-      it's use cases for various needs.</p>
-      <p>If you have created or found a library that you think should be listed here, please
-      <a href="https://github.com/robotframework/robotframework.github.com" target="_blank">let us know</a>
-      by submitting a pull request or an issue. You are also welcome to report unmaintained
-      ones that shouldn't be listed anymore.`,
+      `<p> Robot Framework ist Open Source und wird unterstützt von <a href="/foundation/">Robot Framework Foundation</a>.
+      Es gibt eine große Community von Mitwirkenden rund um das Tool.
+      Die Software ist auf Erweiterbarkeit ausgelegt, und es gibt zahlreiche Möglichkeiten,
+      ihre Anwendungsfälle an verschiedene Bedürfnisse anzupassen.</p>
+      <p>Wenn Sie eine Bibliothek erstellt oder gefunden haben, die Ihrer Meinung nach hier aufgeführt werden sollte,
+      <a href="https://github.com/robotframework/robotframework.github.com" target="_blank">lassen Sie es uns bitte wissen,</a>
+      indem Sie eine Pull Request oder ein Issue einreichen. Sie können uns auch gerne Bibliotheken melden,
+      die nicht mehr gewartet werden und daher nicht mehr aufgeführt werden sollten.`,
     tabs: [
       {
         name: 'Libraries',
