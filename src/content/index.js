@@ -16,4 +16,11 @@ export {
   spanish,
   chinese,
   ach
+
+  builtin,
+  libraries,
+  tools,
+  learning,
+  users,
+  sponsors
 }
