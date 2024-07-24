@@ -12,6 +12,12 @@ export default () => ({
   ...foundation(),
   ...rpa(),
   ...testautomation(),
+  ...builtin(),
+  ...libraries(),
+  ...tools(),
+  ...learning(),
+  ...users(),
+  ...sponsors()
   langName: 'English',
   newsBanner: '',
   navbar: {
