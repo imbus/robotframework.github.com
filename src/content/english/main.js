@@ -17,7 +17,7 @@ export default () => ({
   ...tools(),
   ...learning(),
   ...users(),
-  ...sponsors()
+  ...sponsors(),
   langName: 'English',
   newsBanner: '',
   navbar: {
