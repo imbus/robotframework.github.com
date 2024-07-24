@@ -7,19 +7,20 @@ import spanish from './spanish.js'
 import chinese from './chinese.js'
 import ach from './ach.js'
 
-import builtin from './resources/builtin.js'
+/* import builtin from './resources/builtin.js'
 import libraries from './resources/libraries.mjs'
 import tools from './resources/tools.mjs'
 import learning from './resources/learning.js'
 import users from './resources/users.js'
 import sponsors from './resources/sponsors.js'
+*/
 
-import germanbuiltin from './resources/german/germanbuiltin.js'
-import germanlibraries from './resources/german/germanlibraries.mjs'
-import germantools from './resources/german/germantools.mjs'
-import germanlearning from './resources/german/germanlearning.js'
-import germanusers from './resources/german/germanusers.js'
-import germansponsors from './resources/german/germansponsors.js'
+import builtin from './resources/german/builtin.js'
+import libraries from './resources/german/libraries.mjs'
+import tools from './resources/german/tools.mjs'
+import learning from './resources/german/learning.js'
+import users from './resources/german/users.js'
+import sponsors from './resources/german/sponsors.js'
 
 export {
   english,
@@ -36,12 +37,5 @@ export {
   tools,
   learning,
   users,
-  sponsors,
-
-  germanbuiltin,
-  germanlibraries,
-  germantools,
-  germanlearning,
-  germanusers,
-  germansponsors
+  sponsors
 }
