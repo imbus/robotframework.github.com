@@ -14,6 +14,13 @@ import learning from './resources/german/learning.js'
 import users from './resources/german/users.js'
 import sponsors from './resources/german/sponsors.js'
 
+import builtin from './resources/builtin.js'
+import libraries from './resources/libraries.js'
+import tools from './resources/tools.js'
+import learning from './resources/learning.js'
+import users from './resources/users.js'
+import sponsors from './resources/sponsors.js'
+
 export {
   english,
   german,
