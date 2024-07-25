@@ -1,7 +1,7 @@
 export default () => ([
   {
     name: 'Robot Framework Docs',
-    description: 'Learn with guides and examples that cover Robot Framework all the way from installation to advanced usage.',
+    description: 'Test in general! Learn with guides and examples that cover Robot Framework all the way from installation to advanced usage.',
     href: 'https://docs.robotframework.org/'
   },
   {
