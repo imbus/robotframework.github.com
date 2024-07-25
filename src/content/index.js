@@ -24,7 +24,7 @@ import learning from './resources/german/learning.js'
 import users from './resources/german/users.js'
 import sponsors from './resources/german/sponsors.js'
 
-/*Resources for English
+/* Resources for English
 import builtin from './resources/english/builtin.js'
 import libraries from './resources/english/libraries.mjs'
 import tools from './resources/english/tools.mjs'
