@@ -7,21 +7,24 @@ import spanish from './spanish.js'
 import chinese from './chinese.js'
 import ach from './ach.js'
 
-/* Resources for English
+//* Resources for English
+
 import builtin from './resources/builtin.js'
 import libraries from './resources/libraries.mjs'
 import tools from './resources/tools.mjs'
 import learning from './resources/learning.js'
 import users from './resources/users.js'
 import sponsors from './resources/sponsors.js'
-*/
 
+
+/*
 import builtin from './resources/german/builtin.js'
 import libraries from './resources/german/libraries.mjs'
 import tools from './resources/german/tools.mjs'
 import learning from './resources/german/learning.js'
 import users from './resources/german/users.js'
 import sponsors from './resources/german/sponsors.js'
+*/
 
 export {
   english,
