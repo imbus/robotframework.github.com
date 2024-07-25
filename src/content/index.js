@@ -31,7 +31,6 @@ import tools from './resources/english/tools.mjs'
 import learning from './resources/english/learning.js'
 import users from './resources/english/users.js'
 import sponsors from './resources/english/sponsors.js'
-*/
 
 export {
   english,
