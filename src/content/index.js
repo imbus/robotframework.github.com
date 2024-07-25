@@ -16,7 +16,6 @@ import learning from './resources/learning.js'
 import users from './resources/users.js'
 import sponsors from './resources/sponsors.js'
 
-
 /*
 import builtin from './resources/german/builtin.js'
 import libraries from './resources/german/libraries.mjs'
