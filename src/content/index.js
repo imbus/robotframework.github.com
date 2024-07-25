@@ -16,14 +16,13 @@ import users from './resources/users.js'
 import sponsors from './resources/sponsors.js'
 */
 
-/* // Resources for German
-import builtin from './resources/german/builtin.js'
-import libraries from './resources/german/libraries.mjs'
-import tools from './resources/german/tools.mjs'
-import learning from './resources/german/learning.js'
-import users from './resources/german/users.js'
-import sponsors from './resources/german/sponsors.js'
-*/
+// Resources for German
+import builtinDE from './resources/german/builtinDE.js'
+import librariesDE from './resources/german/librariesDE.mjs'
+import toolsDE from './resources/german/toolsDE.mjs'
+import learningDE from './resources/german/learningDE.js'
+import usersDE from './resources/german/usersDE.js'
+import sponsorsDE from './resources/german/sponsorsDE.js'
 
 import builtin from './resources/english/builtin.js'
 import libraries from './resources/english/libraries.mjs'
@@ -47,5 +46,12 @@ export {
   tools,
   learning,
   users,
-  sponsors
+  sponsors,
+
+  builtinDE,
+  librariesDE,
+  toolsDE,
+  learningDE,
+  usersDE,
+  sponsorsDE
 }
