@@ -2,91 +2,91 @@ export default () => ([
   {
     name: 'Builtin',
     href: 'https://robotframework.org/robotframework/latest/libraries/BuiltIn.html',
-    description: 'Provides a set of often needed generic keywords. Always automatically available without imports.',
-    tags: ['library']
+    description: 'Stellt einen Satz häufig benötigter generischer Keywords bereit. Immer automatisch verfügbar, ohne Import.',
+    tags: ['Bibliothek']
   },
   {
     name: 'Collections',
     href: 'https://robotframework.org/robotframework/latest/libraries/Collections.html',
-    description: 'Provides a set of keywords for handling Python lists and dictionaries.',
-    tags: ['library']
+    description: 'Stellt einen Satz von Keywords zur Verfügung, um Python-Listen und -Dictionaries zu verarbeiten.',
+    tags: ['Bibliothek']
   },
   {
     name: 'DateTime',
     href: 'https://robotframework.org/robotframework/latest/libraries/DateTime.html',
-    description: 'Library for date and time conversions.',
-    tags: ['library']
+    description: 'Bibliothek für Datums- und Zeitkonvertierungen.',
+    tags: ['Bibliothek']
   },
   {
     name: 'Dialogs',
     href: 'https://robotframework.org/robotframework/latest/libraries/Dialogs.html',
-    description: 'Provides means for pausing the execution and getting input from users.',
-    tags: ['library']
+    description: 'Bietet Möglichkeiten, die Ausführung zu pausieren und Eingaben von Benutzern zu erhalten.',
+    tags: ['Bibliothek']
   },
   {
     name: 'OperatingSystem',
     href: 'https://robotframework.org/robotframework/latest/libraries/OperatingSystem.html',
-    description: 'Enables various operating system related tasks to be performed in the system where Robot Framework is running.',
-    tags: ['library']
+    description: 'Ermöglicht die Durchführung verschiedener Betriebssystemaufgaben auf dem System, auf dem das Robot Framework ausgeführt wird.',
+    tags: ['Bibliothek']
   },
   {
     name: 'Process',
     href: 'https://robotframework.org/robotframework/latest/libraries/Process.html',
-    description: 'Library for running processes in the system.',
-    tags: ['library']
+    description: 'Bibliothek für das Ausführen von Prozessen im System.',
+    tags: ['Bibliothek']
   },
   {
     name: 'Remote',
     href: 'https://github.com/robotframework/RemoteInterface',
-    description: 'Special library acting as a proxy between Robot Framework and libraries elsewhere. Actual libraries can be running on different machines and be implemented using any programming language supporting XML-RPC protocol.',
-    tags: ['library']
+    description: 'Spezielle Bibliothek, die als Proxy zwischen dem Robot Framework und anderen Bibliotheken fungiert. Tatsächliche Bibliotheken können auf verschiedenen Maschinen laufen und in beliebigen Programmiersprachen implementiert sein, die das XML-RPC-Protokoll unterstützen.',
+    tags: ['Bibliothek']
   },
   {
     name: 'Screenshot',
     href: 'https://robotframework.org/robotframework/latest/libraries/Screenshot.html',
-    description: 'Provides keywords to capture screenshots of the desktop.',
-    tags: ['library']
+    description: 'Stellt Keywords zum Aufnehmen von Screenshots des Desktops bereit.',
+    tags: ['Bibliothek']
   },
   {
     name: 'String',
     href: 'https://robotframework.org/robotframework/latest/libraries/String.html',
-    description: 'Library for generating, modifying and verifying strings.',
-    tags: ['library']
+    description: 'Bibliothek zum Erstellen, Ändern und Überprüfen von Strings.',
+    tags: ['Bibliothek']
   },
   {
     name: 'Telnet',
     href: 'https://robotframework.org/robotframework/latest/libraries/Telnet.html',
-    description: 'Makes it possible to connect to Telnet servers and execute commands on the opened connections.',
-    tags: ['library']
+    description: 'Ermöglicht die Verbindung zu Telnet-Servern und das Ausführen von Kommandos auf den geöffneten Verbindungen.',
+    tags: ['Bibliothek']
   },
   {
     name: 'XML',
     href: 'https://robotframework.org/robotframework/latest/libraries/XML.html',
-    description: 'Library for generating, modifying and verifying XML files.',
-    tags: ['library']
+    description: 'Bibliothek zum Erstellen, Bearbeiten und Überprüfen von XML-Dateien.',
+    tags: ['Bibliothek']
   },
   {
     name: 'Rebot',
-    description: 'Generate logs and reports based on XML outputs and for combining multiple outputs together.',
+    description: 'Generiert Logs und Berichte basierend auf XML-Ausgaben und zum Kombinieren mehrerer Ausgaben.',
     href: 'https://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html#post-processing-outputs',
-    tags: ['tool']
+    tags: ['Tool']
   },
   {
     name: 'Libdoc',
-    description: 'Generate keyword documentation for test libraries and resource files.',
+    description: 'Generiert Keyword-Dokumentation für Testbibliotheken und Ressourcen-Dateien.',
     href: 'https://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html#libdoc',
-    tags: ['tool']
+    tags: ['Tool']
   },
   {
     name: 'Testdoc',
-    description: 'Generate high level HTML documentation based on Robot Framework test cases.',
+    description: 'Generiert detaillierte HTML-Dokumentation basierend auf Robot Framework-Testfällen.',
     href: 'https://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html#testdoc',
-    tags: ['tool']
+    tags: ['Tool']
   },
   {
     name: 'Tidy',
-    description: 'Cleaning up and changing format of Robot Framework test data files.',
+    description: 'Bereinigen und Ändern des Formats von Robot Framework-Testdatendateien.',
     href: 'https://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html#tidy',
-    tags: ['tool']
+    tags: ['Tool']
   }
 ])
