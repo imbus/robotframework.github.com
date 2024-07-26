@@ -87,7 +87,7 @@ export default () => ([
   {
     name: 'DocTest Library',
     href: 'https://github.com/manykarim/robotframework-doctestlibrary',
-    description: 'Bibliothek für Dokumententests, bietet visuelle/content Vergleiche und Masken für Bilder, PDFs und mehr.',
+    description: 'Bibliothek für Dokumententests, bietet Visuelle/Content Vergleiche und Masken für Bilder, PDFs und mehr.',
     tags: ['pdf', 'visual']
   },
   {
@@ -121,7 +121,7 @@ export default () => ([
   {
     name: 'ImageHorizonLibrary',
     href: 'https://github.com/eficode/robotframework-imagehorizonlibrary#readme',
-    description: 'Cross-platform, in Python geschriebene Bibliothek für GUI-Automatisierung basierend auf bilderkennung.',
+    description: 'Cross-platform, in Python geschriebene Bibliothek für GUI-Automatisierung basierend auf Bilderkennung.',
     tags: ['ui', 'visual']
   },
   {
