@@ -2,81 +2,81 @@ export default () => ([
   {
     name: 'AppiumLibrary',
     href: 'https://github.com/serhatbolsu/robotframework-appiumlibrary',
-    description: 'Android and iOS testing. Uses Appium internally.',
+    description: 'Android- und iOS-Tests. Verwendet intern Appium.',
     tags: ['mobile']
   },
   {
     name: 'ArchiveLibrary',
     href: 'https://github.com/MarketSquare/robotframework-archivelibrary',
-    description: 'Handling zip- and tar-archives.',
+    description: 'Verarbeiten von Zip- und Tar-Archiven.',
     tags: ['zip']
   },
   {
     name: 'AutoItLibrary',
     href: 'https://github.com/nokia/robotframework-autoitlibrary',
-    description: 'Windows GUI testing library that uses AutoIt freeware tool as a driver.',
-    tags: ['windows', 'ui']
+    description: 'Windows-GUI-Testbibliothek, die das Freeware-Tool AutoIt als Driver verwendet.',
+    tags: ['Windows', 'UI']
   },
   {
     name: 'AutoRecorder',
     href: 'https://github.com/sebastianciupinski/robotframework-autorecorder#readme',
-    description: 'Allows automatically recording video for test/suites execution.',
+    description: 'Ermöglicht die automatische Videoaufzeichnung während der Durchführung von Tests und Test-Suites.',
     tags: ['visual']
   },
   {
     name: 'Browser Library',
     href: 'https://github.com/MarketSquare/robotframework-browser',
-    description: 'A modern web testing library powered by <a href="https://playwright.dev" target="_blank"> Playwright</a>. Aiming for speed, reliability and visibility.',
+    description: 'Eine moderne Web-Testbibliothek, die von <a href="https://playwright.dev" target="_blank"> Playwright</a> unterstützt wird. Zielt auf Geschwindigkeit, Zuverlässigkeit und Sichtbarkeit ab.',
     tags: ['web']
   },
   {
     name: 'CncLibrary',
     href: 'https://github.com/eficode/robotframework-cnclibrary',
-    description: 'Driving a CNC milling machine.',
+    description: 'Steuerung einer CNC-Fräsmaschine.',
     tags: ['rpa']
   },
   {
     name: 'ConfluentKafkaLibrary',
     href: 'https://github.com/robooo/robotframework-ConfluentKafkaLibrary',
-    description: 'Python confluent kafka.'
+    description: 'Python Confluent Kafka.'
   },
   {
     name: 'CURFLibrary',
     href: 'https://github.com/Openwide-Ingenierie/robotframework-can-uds-library',
-    description: 'Testing CAN bus with support for ISO-TP and UDS.'
+    description: 'Testen des CAN-Bus mit Unterstützung für ISO-TP und UDS.'
   },
   {
     name: 'Database Library (Java)',
     href: 'https://github.com/MarketSquare/robotframework-dblibrary',
-    description: 'Java-based library for database testing. Usable with Jython. Available also at <a href="https://search.maven.org/#search%7Cga%7C1%7Ca%3A%22robotframework-dblibrary%22" target="_blank">Maven central</a>.',
+    description: 'Java-basierte Bibliothek für Datenbanktests. Verwendbar mit Jython. Auch über <a href="https://search.maven.org/#search%7Cga%7C1%7Ca%3A%22robotframework-dblibrary%22" target="_blank">Maven Central</a> verfügbar.',
     tags: ['java']
   },
   {
     name: 'Database Library (Python)',
     href: 'https://github.com/MarketSquare/Robotframework-Database-Library',
-    description: 'Python based library for database testing. Works with any Python interpreter, including Jython.',
+    description: 'Python-basierte Bibliothek für Datenbanktests. Funktioniert mit jedem Python-Interpreter, einschließlich Jython.',
     tags: ['db']
   },
   {
     name: 'DataDriver Library',
     href: 'https://github.com/Snooz82/robotframework-datadriver',
-    description: 'Data-Driven Testing with external 📤 data tables (csv, xls, xlsx, etc.). 🧬 Pairwise Combinatorial Testing support.',
+    description: 'Data-Driven Testing mit externen 📤 Datentabellen (csv, xls, xlsx, etc.). 🧬 Unterstützung für paarweiser kombinatorischer Test.',
     tags: ['db']
   },
   {
     name: 'DebugLibrary',
     href: 'https://github.com/xyb/robotframework-debuglibrary',
-    description: 'A debug library for RobotFramework, which can be used as an interactive shell(REPL) also.'
+    description: 'Eine Debug-Bibliothek für Robot Framework, die auch als interaktive Shell (REPL) verwendet werden kann.'
   },
   {
     name: 'Dependency Library',
     href: 'https://github.com/mentalisttraceur/robotframework-dependencylibrary',
-    description: 'Declare dependencies between tests. Ideally tests are independent, but when tests depend on earlier tests, DependencyLibrary makes it easy to explicitly declare these dependencies and have tests that depend on each other do the right thing.'
+    description: 'Abhängigkeiten zwischen Tests deklarieren. Idealerweise sind Tests unabhängig, aber wenn Tests von früheren Tests abhängen, erleichtert die Dependency Library das explizite Deklarieren dieser Abhängigkeiten und sorgt dafür, dass abhängige Tests korrekt ausgeführt werden.'
   },
   {
     name: 'Diff Library',
     href: 'https://github.com/MarketSquare/robotframework-difflibrary',
-    description: 'Diff two files together.'
+    description: 'Unterschiede zwischen zwei Dateien ermitteln.'
   },
   {
     name: 'Django Library',

@@ -36,7 +36,7 @@ export default () => ([
   },
   {
     name: 'Web Demo',
-    description: 'Erklärt, wie man Tests und Keywords auf hohem Niveau erstellt. Das System unter Test ist eine einfache Webseite, die mit der SeleniumLibrary getestet wird.',
+    description: 'Erklärt, wie man Tests und high Level Keywords erstellt. Das System unter Test ist eine einfache Webseite, die mit der SeleniumLibrary getestet wird.',
     href: 'https://github.com/robotframework/WebDemo'
   },
   {
