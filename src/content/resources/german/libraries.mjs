@@ -93,7 +93,7 @@ export default () => ([
   {
     name: 'DoesIsLibrary',
     href: 'https://github.com/sebastianciupinski/robotframework-doesislibrary#readme',
-    description: 'Automatisch generierte Keywords wie '/Is Something/' oder '/Does Something/', die aus Assertion-Keywords wie '/Should Be/', '/Should Not Be/' usw. erstellt werden.'
+    description: 'Automatisch generierte Keywords wie Is Something oder Does Something, die aus Assertion-Keywords wie Should Be, Should Not Be usw. erstellt werden.'
   },
   {
     name: 'Eclipse Library',
