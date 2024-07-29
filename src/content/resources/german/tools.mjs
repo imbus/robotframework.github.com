@@ -31,7 +31,7 @@ export default () => ([
   },
   {
     name: 'Gedit',
-    description: 'Syntaxhervorhebung für Gedit".',
+    description: 'Syntaxhervorhebung für Gedit.',
     href: 'https://github.com/vkosuri/gedit-robot',
     tags: ['editor']
   },
@@ -79,13 +79,13 @@ export default () => ([
   },
   {
     name: 'Intellisense for Visual Studio Code',
-    description: 'Visual Studio Code Erweiterung, die die Entwicklung mit Robot Framework unterstützt',
+    description: 'Visual Studio Code Erweiterung, die die Entwicklung mit Robot Framework unterstützt.',
     href: 'https://marketplace.visualstudio.com/items?itemName=TomiTurtiainen.rf-intellisense',
     tags: ['editor']
   },
   {
     name: 'Debugger for Visual Studio Code',
-    description: 'Visual Studio Code Erweiterung, mit der Sie Robot-Dateien mit Call-Stack, Breakpoints, usw. debuggen können',
+    description: 'Visual Studio Code Erweiterung, mit der Sie Robot-Dateien mit Call-Stack, Breakpoints, usw. debuggen können.',
     href: 'https://marketplace.visualstudio.com/items?itemName=JacobPhilip.danfoss-robotframework-debug',
     tags: ['editor']
   },
@@ -145,7 +145,7 @@ export default () => ([
   },
   {
     name: 'RCC',
-    description: 'Teilen Sie Ihre Robot-Projekte ganz einfach. RCC ermöglicht es Ihnen, Python-basierte, eigenständige Automatisierungspakete zu erstellen, zu verwalten und zu verteilen',
+    description: 'Teilen Sie Ihre Robot-Projekte ganz einfach. RCC ermöglicht es Ihnen, Python-basierte, eigenständige Automatisierungspakete zu erstellen, zu verwalten und zu verteilen.',
     href: 'https://github.com/robocorp/rcc',
     tags: ['']
   },
@@ -181,7 +181,7 @@ export default () => ([
   },
   {
     name: 'Robot Tools',
-    description: 'Sammlung von Tools, die mit Robot Framework verwendet werden können',
+    description: 'Sammlung von Tools, die mit Robot Framework verwendet werden können.',
     href: 'https://bitbucket.org/robotframework/robottools',
     tags: ['']
   },
@@ -193,7 +193,7 @@ export default () => ([
   },
   {
     name: 'Robotmk',
-    description: '"Mit Robotmk können arbiträre Robot Framework Tests reibungslos in das Checkmk Monitoring Tool integriert werden. Neben Server- und Netzwerkmetriken erhalten Checkmk Administratoren auch wertvolle Einblicke in die Performanz aus Sicht der Benutzer ("End-2-End Monitoring"). Robotmk kann flexibel die Ausführungszeiten von Tests und Keywords überwachen und grafisch darstellen sowie Benachrichtigungen auslösen, wenn damit verbundene SLAs verletzt werden.',
+    description: 'Mit Robotmk können arbiträre Robot Framework Tests reibungslos in das Checkmk Monitoring Tool integriert werden. Neben Server- und Netzwerkmetriken erhalten Checkmk Administratoren auch wertvolle Einblicke in die Performanz aus Sicht der Benutzer ("End-2-End Monitoring"). Robotmk kann flexibel die Ausführungszeiten von Tests und Keywords überwachen und grafisch darstellen sowie Benachrichtigungen auslösen, wenn damit verbundene SLAs verletzt werden.',
     href: 'https://github.com/elabit/robotmk/',
     tags: ['']
   },
