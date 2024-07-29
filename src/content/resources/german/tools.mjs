@@ -1,236 +1,236 @@
 export default () => ([
   {
     name: 'RIDE',
-    description: 'Standalone Robot Framework test data editor.',
+    description: 'Standalone Editor für Robot Framework Testdaten.',
     href: 'https://github.com/robotframework/RIDE/wiki',
     tags: ['editor']
   },
   {
     name: 'Atom plugin',
-    description: 'Robot Framework plugin for Atom.',
+    description: 'Robot Framework Plugin für Atom.',
     href: 'https://github.com/wingyplus/language-robot-framework',
     tags: ['editor']
   },
   {
     name: 'Brackets plugin',
-    description: 'Robot Framework plugin for Brackets.',
+    description: 'Robot Framework Plugin für Brackets.',
     href: 'https://github.com/boakley/brackets-robotframework/wiki',
     tags: ['editor']
   },
   {
     name: 'RobotCode',
-    description: 'RobotFramework support for Visual Studio Code, including features like code completion, navigation, refactoring, usage analysis, debugging, test explorer, test execution and more!',
+    description: 'Robot Framework Unterstützung für Visual Studio Code, einschließlich Funktionen wie Code-Vervollständigung, Navigation, Refactoring, Nutzungsanalyse, Debugging, Test Explorer, Testausführung und mehr!',
     href: 'https://github.com/d-biehl/robotcode',
     tags: ['editor', 'vscode']
   },
   {
     name: 'Emacs major mode',
-    description: 'Emacs major mode for editing tests.',
+    description: 'Emacs Hauptmodus für Tests bearbeiten.',
     href: 'https://github.com/sakari/robot-mode',
     tags: ['editor']
   },
   {
     name: 'Gedit',
-    description: 'Syntax highlighting for Gedit.',
+    description: 'Syntaxhervorhebung für Gedit".',
     href: 'https://github.com/vkosuri/gedit-robot',
     tags: ['editor']
   },
   {
-    name: 'Robot Plugin for IntelliJ IDEA',
-    description: 'For IntelliJ IDEA-based editors by JIVE Software.',
+    name: 'Robot Plugin für IntelliJ IDEA',
+    description: 'Für IntelliJ IDEA-basierende Editoren von JIVE Software.',
     href: 'https://plugins.jetbrains.com/plugin/7430',
     tags: ['editor']
   },
   {
-    name: 'Robot Support for IntelliJ IDEA',
-    description: 'For IntelliJ IDEA-based editors by Valerio Angelini.',
+    name: 'Robot Support für IntelliJ IDEA',
+    description: 'Für IntelliJ IDEA-basierende Editoren von Valerio Angelini.',
     href: 'https://plugins.jetbrains.com/plugin/7415',
     tags: ['editor']
   },
   {
     name: 'Notepad++',
-    description: 'Syntax highlighting for Notepad++.',
+    description: 'Syntaxhervorhebung für Notepad++.',
     href: 'https://github.com/vkosuri/npp-robot',
     tags: ['editor']
   },
   {
     name: 'Language Server for PyCharm',
-    description: 'PyCharm LSP plugin - syntax highlight, code completion, and other LSP features for PyCharm.',
+    description: 'PyCharm LSP Plugin - Syntaxhervorhebung, Code-Vervollständigung, und andere LSP features für PyCharm.',
     href: 'https://plugins.jetbrains.com/plugin/16086-robot-framework-language-server',
     tags: ['editor']
   },
   {
     name: 'Sublime assistant',
-    description: 'A plugin for Sublime Text 2 & 3 by Andriy Hrytskiv.',
+    description: 'Plugin für Sublime Text 2 & 3 von Andriy Hrytskiv.',
     href: 'https://github.com/andriyko/sublime-robot-framework-assistant',
     tags: ['editor']
   },
   {
     name: 'Sublime plugin',
-    description: 'A plugin for Sublime Text 2 by Mike Gershunovsky.',
+    description: 'Plugin für Sublime Text 2 von Mike Gershunovsky.',
     href: 'https://github.com/shellderp/sublime-robot-plugin',
     tags: ['editor']
   },
   {
     name: 'Vim plugin',
-    description: 'Vim plugin for development with Robot Framework.',
+    description: 'Vim Plugin für die Entwicklung mit Robot Framework.',
     href: 'https://github.com/mfukar/robotframework-vim',
     tags: ['editor']
   },
   {
     name: 'Intellisense for Visual Studio Code',
-    description: 'A Visual Studio Code extension that supports Robot Framework development.',
+    description: 'Visual Studio Code Erweiterung, die die Entwicklung mit Robot Framework unterstützt',
     href: 'https://marketplace.visualstudio.com/items?itemName=TomiTurtiainen.rf-intellisense',
     tags: ['editor']
   },
   {
     name: 'Debugger for Visual Studio Code',
-    description: 'A Visual Studio Code extension that lets you debug robot files with call stack, breakpoints, etc.',
+    description: 'Visual Studio Code Erweiterung, mit der Sie Robot-Dateien mit Call-Stack, Breakpoints, usw. debuggen können',
     href: 'https://marketplace.visualstudio.com/items?itemName=JacobPhilip.danfoss-robotframework-debug',
     tags: ['editor']
   },
   {
     name: 'Jenkins plugin',
-    description: 'Plugin to collect and publish Robot Framework execution results in Jenkins.',
+    description: 'Plugin zum Sammeln und Veröffentlichen von Robot Framework-Ausführungsergebnissen in Jenkins.',
     href: 'https://github.com/jenkinsci/robot-plugin',
     tags: ['build']
   },
   {
     name: 'Maven plugin',
-    description: 'Maven plugin for using Robot Framework.',
+    description: 'Maven Plugin zur Verwendung von Robot Framework.',
     href: 'https://github.com/robotframework/MavenPlugin',
     tags: ['build']
   },
   {
     name: 'Ant task',
-    description: 'Ant task for running Robot Framework tests.',
+    description: 'Ant Task zum Ausführen von Robot Framework Tests.',
     href: 'https://github.com/lcarbonn/robotframework-ant',
     tags: ['build']
   },
   {
     name: 'DbBot',
-    description: 'Tool for serializing Robot Framework execution results, i.e. output.xml files, into an SQLite database. It serves a good starting point to create your own reporting and analyzing tools.',
+    description: 'Tool zum Serialisieren von Robot Framework-Ausführungsergebnissen, d.h. output.xml Dateien, in eine SQLite Datenbank. Es stellt einen guten Startpunkt dar, um eigene Reporting- und Analysetools zu entwickeln.',
     href: 'https://github.com/robotframework/DbBot',
     tags: ['']
   },
   {
     name: 'Distbot',
-    description: 'A bot for self distribution of Robot Framework tests into multiple machines/docker and execute in parallel (without need of master node).',
+    description: 'Ein Bot zur Selbstverteilung von Robot Framework-Tests auf mehrere Maschinen/Docker-Container und zur parallelen Ausführung (ohne Notwendigkeit eines Master Node).',
     href: 'https://github.com/rajeevnaikte/distbot',
     tags: ['']
   },
   {
     name: 'Fixml',
-    description: 'Tool for fixing Robot Framework output files that are broken.',
+    description: 'Tool zum Fixing von beschädigten Robot Framework-Ausgabedateien.',
     href: 'https://bitbucket.org/robotframework/fixml',
     tags: ['']
   },
   {
     name: 'Mabot',
-    description: 'Tool for reporting manual tests in format compatible with Robot Framework outputs.',
+    description: 'Tool zur Berichterstattung über manuelle Tests im Format, das mit Robot Framework-Ausgaben kompatibel ist.',
     href: 'https://github.com/robotframework/mabot/',
     tags: ['']
   },
   {
     name: 'Oxygen',
-    description: "Tool for consolidating other test tools' reporting to Robot Framework outputs.",
+    description: "Tool zur Konsolidierung der Berichterstattung von anderen Testtools in Robot Framework Ausgaben.",
     href: 'https://github.com/eficode/robotframework-oxygen',
     tags: ['']
   },
   {
     name: 'Pabot',
-    description: 'A parallel executor for Robot Framework tests and tasks.',
+    description: 'Ein Parallel-Executor für Robot Framework Tests und Aufgaben.',
     href: 'https://github.com/mkorpela/pabot',
     tags: ['']
   },
   {
     name: 'RCC',
-    description: 'Share your Robot projects with ease. RCC allows you to create, manage, and distribute Python-based self-contained automation packages.',
+    description: 'Teilen Sie Ihre Robot-Projekte ganz einfach. RCC ermöglicht es Ihnen, Python-basierte, eigenständige Automatisierungspakete zu erstellen, zu verwalten und zu verteilen',
     href: 'https://github.com/robocorp/rcc',
     tags: ['']
   },
   {
     name: 'RFDoc',
-    description: 'Web based system for storing and searching Robot Framework library and resource file documentations.',
+    description: 'Web-basiertes System zum Speichern und Durchsuchen von Dokumentationen zu Robot Framework Bibliotheken und Ressourcendateien.',
     href: 'https://github.com/robotframework/rfdoc',
     tags: ['']
   },
   {
     name: 'rfswarm',
-    description: 'Testing tool that allows you to use Robot Framework test cases for performance or load testing.',
+    description: 'Tool, das es Ihnen ermöglicht, Robot Framework Testfälle für Performanz- oder Lasttests zu verwenden.',
     href: 'https://github.com/damies13/rfswarm',
     tags: ['']
   },
   {
     name: 'Robot Corder',
-    description: 'Robot Corder generates Robot Framework test script by recording user interactions and scanning the html page in your Chrome browser. It aims to be equivalent of Selenium IDE for RobotFramework browser test automation.',
+    description: 'Robot Corder erstellt Robot Framework Testskripte, indem es Benutzerinteraktionen aufzeichnet und die HTML-Seite in Ihrem Chrome-Browser scannt. Es soll das Äquivalent von Selenium IDE für die Browser-Testautomatisierung mit Robot Framework sein.',
     href: 'https://github.com/sohwendy/Robotcorder',
     tags: ['']
   },
   {
     name: 'Robot Framework Hub',
-    description: 'Lightweight web server that provides access to the Robot Framework test assets via browser.',
+    description: 'Lightweight Webserver, der über den Browser Zugriff auf die Robot Framework Testassets bietet.',
     href: 'https://github.com/boakley/robotframework-hub/wiki',
     tags: ['']
   },
   {
     name: 'Robot Framework Lexer',
-    description: 'Robot Framework syntax highlighting with Pygments. Link is to the lexer project itself, but the lexer is part of Pygments from version 1.6 onwards.',
+    description: 'Syntaxhervorhebung für Robot Framework mit Pygments. Der Link führt zum Lexer-Projekt selbst, aber der Lexer ist seit Version 1.6 Teil von Pygments.',
     href: 'https://bitbucket.org/robotframework/pygmentslexer',
     tags: ['editor']
   },
   {
     name: 'Robot Tools',
-    description: 'Collection of supporting tools that can be used with Robot Framework.',
+    description: 'Sammlung von Tools, die mit Robot Framework verwendet werden können',
     href: 'https://bitbucket.org/robotframework/robottools',
     tags: ['']
   },
   {
     name: 'Robocop linter',
-    description: 'Static code analysis tool for Robot Framework with use of latest robot API and many built-in rules that can be easily configured or switched off.',
+    description: 'Statisches Code-Analyse-Tool für Robot Framework, das die neueste Robot-API verwendet und viele built-in Regeln bietet, die einfach konfiguriert oder deaktiviert werden können.',
     href: 'https://github.com/MarketSquare/robotframework-robocop',
     tags: ['']
   },
   {
     name: 'Robotmk',
-    description: 'With Robotmk, arbitrary Robot Framework tests can be seamlessly integrated into the Checkmk monitoring tool. In addition to server and network metrics, Checkmk administrators also get worthful insights about on how well business applications are performing from the users point of view ("End-2-End Monitoring"). Robotmk can flexibly monitor and graph the runtimes of tests and keywords, and also alert when related SLAs are violated.',
+    description: '"Mit Robotmk können arbiträre Robot Framework Tests reibungslos in das Checkmk Monitoring Tool integriert werden. Neben Server- und Netzwerkmetriken erhalten Checkmk Administratoren auch wertvolle Einblicke in die Performanz aus Sicht der Benutzer ("End-2-End Monitoring"). Robotmk kann flexibel die Ausführungszeiten von Tests und Keywords überwachen und grafisch darstellen sowie Benachrichtigungen auslösen, wenn damit verbundene SLAs verletzt werden.',
     href: 'https://github.com/elabit/robotmk/',
     tags: ['']
   },
   {
     name: 'SAGE Framework',
-    description: 'Multi-agent based extension to Robot Framework. Agent based systems make it possible to test distributed systems such as Service Oriented Architecture systems. SAGE Provides a library of Robot Framework keywords for creating and managing SAGE agent networks as well as collecting and reporting results from remote agents.',
+    description: 'Erweiterung von Robot Framework basierend auf Multi-Agent. Agentenbasierte Systeme ermöglichen das Testen verteilter Systeme wie Service Oriented Architecture Systems. SAGE bietet eine Bibliothek von Robot Framework-Keywords zum Erstellen und Verwalten von SAGE-Agentennetzwerken sowie zum Sammeln und Berichten von Ergebnissen von Remote-Agenten.',
     href: 'https://www.nrl.navy.mil/itd/imda/products/sage',
     tags: ['']
   },
 
   {
     name: 'StatusChecker',
-    description: 'A tool for validation that executed Robot Framework test cases have expected statuses and log messages. Mainly targeted for test library developers.',
+    description: 'Ein Werkzeug zur Validierung, dass ausgeführte Robot Framework-Testfälle die erwarteten Status und Log Messages haben. Hauptsächlich für Entwickler von Testbibliotheken vorgesehen.',
     href: 'https://github.com/robotframework/statuschecker/',
     tags: ['']
   },
   {
     name: 'Test Assistant',
-    description: "Control test processes and RPA tasks with your voice or with a text message sent directly to the assistant through leon-ai's UI..",
+    description: "Steuern Sie Testprozesse und RPA-Aufgaben mit Ihrer Stimme oder durch eine Textnachricht, die direkt über die UI von leon-ai's an den Assistenten gesendet wird.",
     href: 'https://github.com/jg8481/leon/tree/develop/packages/robotframework-test-assistant',
     tags: ['']
   },
   {
     name: 'TestDataTable',
-    description: 'Enables you to assign test data variable values from a single set of data to multiple scripts while allowing you to ensure each script has a unique data value.',
+    description: 'Ermöglicht es Ihnen, Testdatenvariablenwerte aus einem einzelnen Datensatz mehreren Skripten zuzuweisen und dabei sicherzustellen, dass jedes Skript einen einzigartigen Datenwert erhält.',
     href: 'https://github.com/damies13/TestDataTable',
     tags: ['']
   },
   {
     name: 'Tesults Listener',
-    description: 'A listener that provides a codeless integration experience for test results reporting from Robot Framework into Tesults.',
+    description: 'Ein Listener, der eine codefreie Integrationsmöglichkeit für die Berichterstattung von Testergebnissen von Robot Framework in Tesults bietet.',
     href: 'https://www.tesults.com/docs?doc=robot',
     tags: ['']
   },
   {
     name: 'Xray Test Management',
-    description: 'Test management app for Jira that provides the ability to track coverage based on traditional manual test cases, exploratory testing and automation-related results. For automation, users can track detailed results from test scripts implemented with Robot Framework and link them to the respective requirements.',
+    description: 'Testmanagement App für Jira, die die Möglichkeit bietet, die Abdeckung basierend auf traditionellen manuellen Testfällen, explorativem Testen und automatisierungsbezogenen Ergebnissen nachzuverfolgen. "Für die Automatisierung können Benutzer detaillierte Ergebnisse von mit Robot Framework implementierten Testscripten nachverfolgen und diese den jeweiligen Anforderungen zuordnen.',
     href: 'https://www.getxray.app/',
     tags: ['']
   }
