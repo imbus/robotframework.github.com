@@ -56,7 +56,7 @@ export default () => ([
   },
   {
     name: 'Demo: Remote Interface',
-    description: 'Das Beispiel zeigt, wie man die Robot Framework <a href="https://github.com/robotframework/RemoteInterface">Remote Interface</a> verwendet, um Testbibliotheken in beliebigen Programmiersprachen aufzurufen',
+    description: 'Das Beispiel zeigt, wie man die Robot Framework <a href="https://github.com/robotframework/RemoteInterface">Remote Interface</a> verwendet, um Testbibliotheken in beliebigen Programmiersprachen aufzurufen.',
     href: 'https://github.com/jg8481/robotframework-scala-remote-library'
   }
 ])
