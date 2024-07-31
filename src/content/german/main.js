@@ -205,7 +205,7 @@ export default () => ({
       {
         name: 'Built-in',
         key: 'builtin',
-        description: `Bibliotheken und Werkzeuge, die mit dem Framework gebündelt sind. Bibliotheken bieten die eigentlichen
+        description: `Bibliotheken und Tools, die mit dem Framework gebündelt sind. Bibliotheken bieten die eigentlichen
         Automatisierungs- und Testfunktionen für Robot Framework, indem sie Keywords bereitstellen.`
       },
       {
