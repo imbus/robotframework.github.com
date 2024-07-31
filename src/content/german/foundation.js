@@ -8,7 +8,7 @@ export default () => ({
       <ol>
         <li>Sicherstellen, dass Robot Framework gewartet und weiterentwickelt wird</li>
         <li>Sichtbarkeit Ihrer Mitgliedschaft für Ihr Unternehmen erhalten, wenn Sie dies wünschen</li>
-        <li>Die Möglichkeit zur Teilnahme an Entscheidungsprozessen gewinnen</li>
+        <li>Die Möglichkeit zur Teilnahme an Entscheidungsprozessen erhalten</li>
         <li>All dies zu einem erschwinglichen Preis pro Benutzer erhalten</li>
       </ol>
       <h3>Jahresgebühren</h3>

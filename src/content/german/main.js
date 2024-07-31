@@ -63,14 +63,14 @@ export default () => ({
     body: `
       <p>
         Robot Framework ist ein Open-Source Automatisierungsframework für die Testautomatisierung und <a href="https://docs.robotframework.org/docs/getting_started/rpa">die robotergestützte Prozessautomatisierung (RPA)</a>.
-        Es erhält Unterstützung von der <a href="/foundation/">Robot Framework Foundation</a> und in der Industrie <a href="/users">weitverbreitet</a>.
+        Es erhält Unterstützung von der <a href="/foundation/">Robot Framework Foundation</a> und ist in der Industrie <a href="/users">weitverbreitet</a>.
         </p>
         <p>
         Die <a href="https://docs.robotframework.org/docs/style_guide">benutzerfreundliche und universelle Syntax</a> nutzt Keywords und unterstützt <a href="https://docs.robotframework.org/docs/extending_robot_framework/custom-libraries/python_library">Erweiterungen durch Bibliotheken</a> in
         Python, Java und anderen Programmiersprachen.
         </p>
         <p class="mb-none">
-        Es integriert sich mit anderen Tools für umfassende Automatisierung ohne Lizenzgebühren,
+        Es integriert andere Tools für umfassende Automatisierung ohne Lizenzgebühren,
         wird durch eine starke Community mit hunderten von <a href="#resources">Drittanbieter-Bibliotheken</a> unterstützt.
       </p>
     `,
@@ -170,7 +170,7 @@ export default () => ({
       <a href="https://www.youtube.com/channel/UCuOaCtN8bI9O_E2VYIumIqg" target="_blank">YouTube-Kanal</a>.</p>
       <p>Um Robot Framework zu unterstützen, finden Sie ein <a href="https://supergeek.de/de/products/24916-im-the-robot-dark/" target="_blank">&#128085; T-Shirt</a>
       und eine <a href="https://supergeek.de/de/products/24915-im-the-robot-bright/1232-tasse-coffee-mug/" target="_blank">&#9749; Kaffeetasse</a>
-      unserem <a href="https://shop.robotframework.org/" target="_blank">Shop<a>.</p>
+      in unserem <a href="https://shop.robotframework.org/" target="_blank">Shop<a>.</p>
 `,
     links: {
       forum: {
@@ -186,13 +186,13 @@ export default () => ({
   resources: {
     title: 'Ressourcen',
     body:
-      `<p> Robot Framework ist Open Source und wird unterstützt von <a href="/foundation/">Robot Framework Foundation</a>.
+      `<p> Robot Framework ist Open Source und wird unterstützt von der <a href="/foundation/">Robot Framework Foundation</a>.
       Es gibt eine große Community von Mitwirkenden rund um das Tool.
       Die Software ist auf Erweiterbarkeit ausgelegt, und es gibt zahlreiche Möglichkeiten,
       ihre Anwendungsfälle an verschiedene Bedürfnisse anzupassen.</p>
       <p>Wenn Sie eine Bibliothek erstellt oder gefunden haben, die Ihrer Meinung nach hier aufgeführt werden sollte,
       <a href="https://github.com/robotframework/robotframework.github.com" target="_blank">lassen Sie es uns bitte wissen,</a>
-      indem Sie eine Pull Request oder ein Issue einreichen. Sie können uns auch gerne Bibliotheken melden,
+      indem Sie einen Pull Request oder ein Issue einreichen. Sie können uns auch gerne Bibliotheken melden,
       die nicht mehr gewartet werden und daher nicht mehr aufgeführt werden sollten.`,
     tabs: [
       {
@@ -223,9 +223,9 @@ export default () => ({
   development: {
     title: 'Entwicklung',
     body: `<p>Die Entwicklung von Robot Framework wird von der gemeinnützigen Organisation
-    <a href="/foundation/">Robot Framework Foundation</a> gefördert. Es besteht aus Unternehmen und Organisationen,
+    <a href="/foundation/">Robot Framework Foundation</a> gefördert. Sie besteht aus Unternehmen und Organisationen,
     die die Kontinuität von Robot Framework jetzt und in Zukunft sicherstellen möchten.</p>
-    <p>Das Projekt ist gehostet bei <a href="https://github.com/robotframework/robotframework" target="_blank">GitHub</a></p>
+    <p>Das Projekt ist gehostet bei <a href="https://github.com/robotframework/robotframework" target="_blank">GitHub.</a></p>
     <p>Dank der Sponsoren bleibt Robot Framework völlig kostenlos nutzbar und wird gleichzeitig aktiv gewartet und weiterentwickelt. 
     Die Foundation deckt auch andere damit verbundene Ausgaben ab, wie die Entwicklung dieser Website und die Organisation verschiedener Meetups.`,
     sponsorBoxTitle: 'Mitglieder der Robot Framework Foundation',
